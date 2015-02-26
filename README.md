@@ -1,3 +1,4 @@
 # DineBright
 A Cmsc122 Project
-I will have more later
+
+The text data is a series of twitter data relating to a top secret project.
